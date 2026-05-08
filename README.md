@@ -2,6 +2,14 @@
 
 A Windows desktop app for quickly inspecting metadata from one or many GeoTIFF files, without waiting for large multi-band rasters to fully load. View results in a table, export to CSV, and optionally save renamed copies using values extracted from metadata.
 
+## Download
+
+Download the latest Windows app from the **Releases** page:  
+https://github.com/Xiangyusherry/GeoMetaName-App/releases
+
+File to download: `GeoMetaName.exe`  
+If Windows SmartScreen appears, click **More info** -> **Run anyway**.
+
 ## Features
 
 - Select GeoTIFF files (`.tif`, `.tiff`) from local folders.
@@ -65,35 +73,6 @@ Use this to create copies of files with clearer, metadata-based names.
 
 - **Author:** Xiangyu Ren
 - **App name:** GeoMetaName
-
-## Publish on GitHub (Binary-Only, No Source Code)
-
-1. Create a new public repository on GitHub (for example: `GeoMetaName-App`).
-2. Put only distribution docs in the repository:
-   - `README.md`
-   - `LICENSE`
-   - `EULA.txt`
-3. Do **not** upload source code files such as:
-   - `GeoTIFF_metadata_app.py`
-   - `GeoTIFF_metadata_app.spec`
-   - `build_windows.ps1`
-4. Build the executable locally:
-   - `cd R:\geospatialToolsRX\RaterMetadata`
-   - `powershell -ExecutionPolicy Bypass -File .\build_windows.ps1 -PythonExe python -SkipTkCheck`
-5. Create a GitHub Release:
-   - Open repo -> `Releases` -> `Draft a new release`
-   - Tag example: `v1.0.0`
-   - Title example: `GeoMetaName v1.0.0`
-   - Upload `dist\GeoMetaName.exe`
-   - (Optional) Upload a checksum text file
-   - Click `Publish release`
-
-## How Users Download the App
-
-1. Go to your GitHub repository.
-2. Open the **Releases** page.
-3. Download `GeoMetaName.exe` from the latest release.
-4. Run it on Windows (if SmartScreen appears, click `More info` -> `Run anyway`).
 
 ## License
 
