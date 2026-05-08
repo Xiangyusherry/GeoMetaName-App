@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/GeoMetaName.png" alt="GeoMetaName logo" width="220">
+  <img src="./GeoMetaName.png" alt="GeoMetaName logo" width="220">
 </p>
 
 # GeoMetaName
