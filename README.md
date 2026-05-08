@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/GeoMetaName.png" alt="GeoMetaName logo" width="220">
+</p>
+
 # GeoMetaName
 
 A Windows desktop app for quickly inspecting metadata from one or many GeoTIFF files, without waiting for large multi-band rasters to fully load. View results in a table, export to CSV, and optionally save renamed copies using values extracted from metadata.
