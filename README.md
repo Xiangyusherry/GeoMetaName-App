@@ -69,6 +69,11 @@ Use this to create copies of files with clearer, metadata-based names.
 - **Renamed copies have the same filename**
   - If multiple files have the same label and the same selected metadata values, the app will append a number to make filenames unique (e.g., `_1`, `_2`, ...).
 
+## Feedback and Support
+
+Found a bug? Please open a **Bug report** in [Issues](../../issues/new/choose).  
+Have an idea to improve GeoMetaName? Submit a **Feature request** in [Issues](../../issues/new/choose).
+
 ## Credits
 
 - **Author:** Xiangyu Ren
