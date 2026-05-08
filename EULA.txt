@@ -1,0 +1,27 @@
+GeoMetaName End User License Agreement (EULA)
+Version date: 2026-05-08
+
+By installing or using GeoMetaName, you agree to this EULA.
+
+1. License
+GeoMetaName is provided as freeware. You may use the executable software at no cost.
+
+2. Closed Source
+GeoMetaName is closed-source software. Source code is not provided and no rights to
+source code are granted.
+
+3. Restrictions
+You may not:
+- redistribute or rehost the software without written permission;
+- sell, sublicense, rent, lease, or otherwise commercially distribute the software;
+- reverse engineer, decompile, disassemble, or attempt to derive source code, except
+  where this restriction is not permitted by local law.
+
+4. Ownership
+All intellectual property rights remain with Xiangyu Ren.
+
+5. No Warranty
+The software is provided "as is" without warranties of any kind.
+
+6. Limitation of Liability
+Xiangyu Ren is not liable for any claims or damages arising from use of the software.
